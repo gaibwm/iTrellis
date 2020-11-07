@@ -1,0 +1,70 @@
+2020-11-06 18:59:46,280 DEBUG WebApplication1.api.StudentController - I am in GetStudents
+2020-11-06 19:02:25,184 DEBUG WebApplication1.api.StudentController - I am in GetStudents
+2020-11-06 19:07:04,851 DEBUG WebApplication1.api.StudentController - I am in GetStudents
+2020-11-06 19:09:20,038 DEBUG WebApplication1.api.StudentController - I am in GetStudents
+2020-11-06 19:16:55,046 DEBUG WebApplication1.api.StudentController - I am in GetStudents
+2020-11-06 19:18:20,360 DEBUG WebApplication1.api.StudentController - I am in GetStudents
+2020-11-06 19:21:48,582 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 19:24:34,696 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 19:26:25,525 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 19:26:26,686 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 19:29:19,548 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 19:33:24,555 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 19:34:39,747 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 19:41:07,942 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 19:44:58,015 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 19:46:42,426 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 19:49:58,046 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 19:56:27,955 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:01:48,526 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:09:09,729 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:10:01,839 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:13:47,647 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:15:46,387 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:16:33,887 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:17:49,981 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:18:32,430 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:18:33,531 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:18:34,150 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:19:20,397 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:22:00,738 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 20:26:50,341 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:08:37,364 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:18:08,848 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:23:53,229 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:24:35,871 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:25:19,099 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:26:06,878 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:27:13,145 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:40:40,937 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:41:39,973 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:43:08,881 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:55:06,506 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:57:31,091 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:58:25,829 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 21:59:09,676 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 22:00:29,090 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 22:00:30,790 DEBUG WebApplication1.api.StudentController - student count: 8
+2020-11-06 22:01:01,881 DEBUG WebApplication1.api.StudentController - student count: 9
+2020-11-06 22:24:09,306 DEBUG WebApplication1.api.StudentController - student count: 9
+2020-11-06 22:25:20,153 DEBUG WebApplication1.api.StudentController - student count: 9
+2020-11-06 22:25:57,898 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:37:42,925 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:44:53,483 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:46:58,356 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:47:04,080 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:47:24,116 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:50:27,775 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:50:32,987 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:51:50,399 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:51:58,245 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:53:02,281 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:53:09,963 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:54:59,275 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:58:57,998 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 22:59:05,711 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 23:01:44,686 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 23:02:05,765 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 23:17:44,132 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 23:40:41,011 DEBUG WebApplication1.api.StudentController - student count: 10
+2020-11-06 23:41:48,725 DEBUG WebApplication1.api.StudentController - student count: 10
